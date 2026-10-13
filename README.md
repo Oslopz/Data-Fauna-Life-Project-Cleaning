@@ -16,4 +16,4 @@ Este repositorio contiene los scripts SQL de diagnóstico, transformación y mod
 * **Gobernanza:** Transformational Philanthropy, Bioseguridad GPS (LEG-024), Anonimización PII.
 
 ## 👤 Autor
-* **Lead Data Analyst:** Oscar Junior López Arias
+* **Lead Data Analyst:** Oscar Junior Lopez Arias
